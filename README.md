@@ -3,4 +3,4 @@ Urban Sound Classification project using CNN is prepared by teammates who are in
 
 
 # Dataset
-https://urbansounddataset.weebly.com/urbansound8k.html dataset is used.
+[This]([https://pages.github.com/](https://urbansounddataset.weebly.com/urbansound8k.html)) dataset is used. 
